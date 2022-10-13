@@ -1,0 +1,22 @@
+{
+  "name": "security-guard-website-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-work:HaadWeb/Haad_Security_Website.git"
+  },
+  "author": "Haad Web",
+  "license": "ISC",
+  "homepage": "https://HaadWeb/github.io/Haad_Security_Website",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
